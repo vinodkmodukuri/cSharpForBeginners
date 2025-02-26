@@ -19,6 +19,15 @@
 
             //NOTE: C# is case sensitive 
 
+            //What if we have two values to read from 
+
+            Console.WriteLine("Enter your last Name");
+            string lastName = Console.ReadLine();
+            Console.WriteLine("The entered lastname is {0}", lastName);
+
+            //How to print both first name and last name 
+            Console.WriteLine ("The full name is {0} {1}", firstName, lastName);
+
         }
     }
 }
