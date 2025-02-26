@@ -1,0 +1,14 @@
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\bin\Debug\net8.0\ReadFromConsole.exe
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\bin\Debug\net8.0\ReadFromConsole.deps.json
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\bin\Debug\net8.0\ReadFromConsole.runtimeconfig.json
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\bin\Debug\net8.0\ReadFromConsole.dll
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\bin\Debug\net8.0\ReadFromConsole.pdb
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.AssemblyInfoInputs.cache
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.AssemblyInfo.cs
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.dll
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\refint\ReadFromConsole.dll
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.pdb
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ReadFromConsole.genruntimeconfig.cache
+C:\Users\SolarSME\source\repos\ReadFromConsole\ReadFromConsole\obj\Debug\net8.0\ref\ReadFromConsole.dll
